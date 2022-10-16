@@ -1,0 +1,1 @@
+vsc ile github'a proje gönderme
